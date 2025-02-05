@@ -18,5 +18,9 @@ then select version to `Newer version`.
 
 5. click `Deploy` blue button.
 
+6. then you can look at and even copy info about deployment
+
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/3ec10141-b73b-4653-8054-8b07ffd5e529" />
+
 ## demo
 see [How to Manage Deployment for updates in AppScript?](https://youtu.be/U2u_xkdZXhE)
