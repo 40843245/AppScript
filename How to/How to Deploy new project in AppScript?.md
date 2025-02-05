@@ -16,6 +16,9 @@ To Deployee new project in AppScript,
 <img width="420" alt="image" src="https://github.com/user-attachments/assets/5c141d6e-e8a0-486f-9b70-d873f3ca1728" />
 
 6. then click `Deploy` blue button.
-   
+7. then you can look at or even copy info about new deployment.
+
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/89028e11-6371-4421-9241-f4ff5420b8a5" />
+
 ## demo
 See [How to Deploy new project in AppScript?](https://youtu.be/-jpYCghQlqw)
