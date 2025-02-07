@@ -48,5 +48,5 @@ function getCell(rowIndex,columnIndex) {
 
 ### reference
 #### API reference
-+ [`Range class`](https://developers.google.com/apps-script/reference/spreadsheet/range)
++ [`Range` class](https://developers.google.com/apps-script/reference/spreadsheet/range)
 + [`DataValidationBuilder` Class](https://developers.google.com/apps-script/reference/spreadsheet/data-validation-builder)
