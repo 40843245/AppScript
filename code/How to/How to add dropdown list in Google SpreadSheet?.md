@@ -46,6 +46,11 @@ function getCell(rowIndex,columnIndex) {
 }
 ```
 
+### output
+<img width="124" alt="image" src="https://github.com/user-attachments/assets/3a4d43c8-805e-481f-8974-ba68f703f33d" />
+
+<img width="739" alt="image" src="https://github.com/user-attachments/assets/804f9853-97b4-410c-904a-1c5a7d062488" />
+
 ### reference
 #### API reference
 + [`Range` class](https://developers.google.com/apps-script/reference/spreadsheet/range)
